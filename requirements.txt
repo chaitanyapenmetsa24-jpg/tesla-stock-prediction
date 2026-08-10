@@ -4,4 +4,4 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow
+tensorflow==2.21.0
